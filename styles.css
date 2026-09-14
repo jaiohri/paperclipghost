@@ -246,7 +246,7 @@ a:hover {
   margin: 0 0 0.75rem;
   font-family: var(--font-display);
   font-weight: 800;
-  font-size: clamp(2.8rem, 9vw, 5.75rem);
+  font-size: clamp(2.4rem, 8vw, 5rem);
   line-height: 0.88;
   letter-spacing: -0.03em;
   color: #d8d2c4;
